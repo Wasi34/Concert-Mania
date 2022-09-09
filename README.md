@@ -24,8 +24,11 @@ Developing Language and Framework :
 •	Java Swing
 •	MySQL Database
 
-Steps of how to run this project:-
+Required technogies to run this Project:
+1.Netbeans 8.2
+2.Microsoft SQL Server Management Studio 2008
 
+Steps of how to run this project:-
 Step 1: Download the zip file. 
 Step 2: Execute the sql file in SQL server. 
 Step 3: Connect your database with netbeans. 
