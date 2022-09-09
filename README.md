@@ -24,5 +24,10 @@ Developing Language and Framework :
 •	Java Swing
 •	MySQL Database
 
+Steps of how to run this project:-
 
+Step 1: Download the zip file. 
+Step 2: Execute the sql file in SQL server. 
+Step 3: Connect your database with netbeans. 
+Step 4: Enjoy the project!
 
