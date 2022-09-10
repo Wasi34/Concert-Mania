@@ -29,7 +29,7 @@ Required technogies to run this Project:
 2.Microsoft SQL Server Management Studio 2008
 
 Steps of how to run this project:-
-Step 1: Download the zip file. 
+Step 1: Download the zip file and extract.
 Step 2: Execute the sql file in SQL server. 
 Step 3: Connect your database with netbeans. 
 Step 4: Enjoy the project!
