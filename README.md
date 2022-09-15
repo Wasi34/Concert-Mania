@@ -1,9 +1,10 @@
+# Concert Mania
 Concert Mania is a desktop application from where users can get information about the upcoming concerts in nearby places. 
 Musicophile can buy tickets of the concert from here easily and enjoy the concert on time.
 
 It's a 3rd year 1st semester project.
 
-Features:
+# Features
 Users’ Side:
 •	See all the upcoming concert
 •	Search for a specific concert 
@@ -20,15 +21,15 @@ Admin’s Side:
 •	Manage data of the sold & refunded tickets
 
 
-Developing Language and Framework : 
+# Developing Language and Framework  
 •	Java Swing
 •	MySQL Database
 
-Required technologies to run this Project:
+# Required Technologies 
 1.Netbeans 8.2
 2.Microsoft SQL Server Management Studio 2008
 
-Steps of how to run this project:-
+# How to Install & Use
 Step 1: Download the zip file and extract.
 Step 2: Execute the sql file in SQL server. 
 Step 3: Connect your database with netbeans. 
