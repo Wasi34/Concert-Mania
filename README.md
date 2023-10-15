@@ -2,7 +2,7 @@
 Concert Mania is a desktop application from where users can get information about upcoming concerts in nearby places. 
 Musicophiles can buy tickets for the concert from here easily and enjoy the concert on time.<br/>
 
-It's a 3rd year 1st semester project.<br/>
+It's a 3rd-year 1st-semester project.<br/>
 
 # Features
 Users’ Side:<br/>
