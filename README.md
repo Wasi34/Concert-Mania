@@ -22,8 +22,8 @@ Admin’s Side:
 
 
 # Developing Language and Framework  
-•	Java Swing
-•	MySQL Database
+•	Java Swing<br/>
+•	MySQL Database<br/>
 
 # Required Technologies 
 1. Netbeans 8.2
