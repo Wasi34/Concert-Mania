@@ -1,24 +1,24 @@
 # Concert Mania
-Concert Mania is a desktop application from where users can get information about the upcoming concerts in nearby places. 
-Musicophile can buy tickets of the concert from here easily and enjoy the concert on time.
+Concert Mania is a desktop application from where users can get information about upcoming concerts in nearby places. 
+Musicophiles can buy tickets for the concert from here easily and enjoy the concert on time.<br/>
 
-It's a 3rd year 1st semester project.
+It's a 3rd year 1st semester project.<br/>
 
 # Features
-Users’ Side:
-•	See all the upcoming concert
-•	Search for a specific concert 
-•	Buy tickets for different concerts
-•	Ask for refund
-•	Login / register. 
+Users’ Side:<br/>
+•	See all the upcoming concerts. <br/>
+•	Search for a specific concert. <br/>
+•	Buy tickets for different concerts.<br/>
+•	Ask for a refund.<br/>
+•	Login/register. <br/>
 
 Admin’s Side:
-•	Login
-•	Schedule all the upcoming concert
-•	Manage data of all user information
-•	Add another admin through registration
-•	Maintain sponsors registration
-•	Manage data of the sold & refunded tickets
+•	Login<br/>
+•	Schedule all the upcoming concerts. <br/>
+•	Manage data of all user information.<br/>
+•	Add another admin through registration.<br/>
+•	Maintain sponsors registration.<br/>
+•	Manage data of the sold & refunded tickets.<br/>
 
 
 # Developing Language and Framework  
@@ -26,12 +26,12 @@ Admin’s Side:
 •	MySQL Database
 
 # Required Technologies 
-1.Netbeans 8.2
-2.Microsoft SQL Server Management Studio 2008
+1. Netbeans 8.2
+2. Microsoft SQL Server Management Studio 2008
 
 # How to Install & Use
-Step 1: Download the zip file and extract.
-Step 2: Execute the sql file in SQL server. 
-Step 3: Connect your database with netbeans. 
-Step 4: Enjoy the project!
+Step 1: Download the zip file and extract it.<br/>
+Step 2: Execute the SQL file in the SQL server. <br/>
+Step 3: Connect your database with NetBeans. <br/>
+Step 4: Enjoy the project.<br/>
 
