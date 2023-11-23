@@ -4,7 +4,6 @@ Musicophiles can buy tickets for the concert from here easily and enjoy the conc
 
 It's a 3rd-year 1st-semester project.<br/>
 
-YouTube Link: https://youtu.be/HUmatUBH9N8?si=FMYVnb9Xb1NYAH8U <br/>
 # Features
 Users’ Side:<br/>
 •	See all the upcoming concerts. <br/>
